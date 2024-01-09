@@ -21,9 +21,9 @@
 ### Project 3 Math Operators
 
 - Using different math operators such as:
-    - +
-    - -
-    - *
+    - \+
+    - \-
+    - \*
     - /
     - %
 - Using multiple math operators in one expression.
