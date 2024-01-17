@@ -35,3 +35,17 @@
 
 - Using a dictionary within a function.
 - Using the delete operator.
+
+### Project 5 Comparisons, Type and Coercion
+
+- Using typeof operator.
+- Using coercion.
+- Using the following operators:
+    - ==
+    - ===
+    - \>
+    - <
+    - &&
+    - ||
+    - !
+  
