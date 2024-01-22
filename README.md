@@ -59,6 +59,6 @@
 ### Project 7 Scope and Time Function
 
 - Assigned local and global variable.
-- Function That includes an IF statement.
+- Function that includes an IF statement.
 - Function with intentional error using a local variable.
 - Time_function made to use IF, Else IF and Else statements.
