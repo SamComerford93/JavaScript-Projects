@@ -48,4 +48,17 @@
     - &&
     - ||
     - !
-  
+
+### Project 6 Ternary Operators and Constructors
+
+- Function using a ternary operator.
+- Constructor function using NEW and THIS keywords.
+- Function used to display the results of a constructor function within a HTML element.
+- Created an nested function.
+
+### Project 7 Scope and Time Function
+
+- Assigned local and global variable.
+- Function That includes an IF statement.
+- Function with intentional error using a local variable.
+- Time_function made to use IF, Else IF and Else statements.
