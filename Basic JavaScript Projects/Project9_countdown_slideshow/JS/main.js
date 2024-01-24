@@ -1,3 +1,4 @@
+// Coundown timer function
 function countdown() {
     var seconds = document.getElementById("seconds").value;
 
@@ -14,6 +15,7 @@ function countdown() {
     tick();
 }
 
+// Slideshow functions
 let slideIndex = 1;
 showSlides(slideIndex);
 
