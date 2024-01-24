@@ -62,3 +62,20 @@
 - Function that includes an IF statement.
 - Function with intentional error using a local variable.
 - Time_function made to use IF, Else IF and Else statements.
+
+### Project 8 
+
+- Created functions with different methods including:
+    - concat()
+    - slice()
+    - toUpperCase()
+    - search()
+    - toString()
+    - toPrecision()
+    - toFixed()
+    - valueOf()
+
+### Project 9 Coundown and Slideshow
+
+- Coundown function that takes an input to start a countdown.
+- Used HTML, CSS and JS to create a slideshow using 3 images with controls.
