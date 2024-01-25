@@ -79,3 +79,15 @@
 
 - Coundown function that takes an input to start a countdown.
 - Used HTML, CSS and JS to create a slideshow using 3 images with controls.
+
+### Project 10 Loops and Arrays
+
+- Function made using WHILE and FOR loops.
+- Used the string.length property.
+- Created a function using an Array.
+- Used new keywords:
+    - const
+    - let
+    - break
+    - continue
+- Used the return statement.
