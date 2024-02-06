@@ -1,0 +1,23 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+label {
+    line-height: 20px;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+input {
+    line-height: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    box-shadow: 2px 3px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+}
+
+#submit {
+    font-weight: 700;
+    padding: 8px;
+    
+}
