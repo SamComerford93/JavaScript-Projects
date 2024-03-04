@@ -91,3 +91,40 @@
     - break
     - continue
 - Used the return statement.
+
+## JavaScript Projects
+
+### HTML 1
+
+- Created a function that takes an input and uses a switch statement to produce an output.
+- Created a function that sues the getElementByClassName() method.
+- Used a canvas to make a circle and a gradient backgound.
+
+### HTML 2
+
+- Created a form and used JavaScript to create form validation.
+
+### HTML 3 
+
+- Created functionality using the onclick event and using the data attribute.
+
+### Calculator 
+
+Created a basic 4 function calculator. Users can add, subtract, multiply, and divide on a sleek web version of a calculator.
+
+### Pizza Menu
+
+This project is a menu used to order pizza with various selection of toppings. It then takes the input information and calculates a price for the order.
+
+### Tic-Tac-Toe Game
+
+The classic game of tic-tac-toe. Play against the computer to get 3 in a row. Sound effects used for placing a token, winning and drawing.
+
+### To-Do App
+
+Functional to-do app made using JSON methods. You can add mutiple tasks and also remove them when completed. 
+
+
+
+
+
